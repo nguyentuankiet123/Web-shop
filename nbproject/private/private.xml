@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Shopping-cart/src/java/models/Cart.java</file>
+            <file>file:/E:/Shopping-cart/web/include/navbar.jsp</file>
+            <file>file:/E:/Shopping-cart/src/java/servlet/AddToCartServlet.java</file>
+            <file>file:/E:/Shopping-cart/src/java/servlet/CheckOutServlet.java</file>
+            <file>file:/E:/Shopping-cart/src/java/models/User.java</file>
+            <file>file:/E:/Shopping-cart/web/include/head.jsp</file>
+            <file>file:/E:/Shopping-cart/web/WEB-INF/web.xml</file>
+            <file>file:/E:/Shopping-cart/src/java/models/Order.java</file>
+            <file>file:/E:/Shopping-cart/src/java/servlet/OrderNowServlet.java</file>
+            <file>file:/E:/Shopping-cart/web/META-INF/context.xml</file>
+            <file>file:/E:/Shopping-cart/src/java/servlet/LoginServlet.java</file>
+            <file>file:/E:/Shopping-cart/src/java/config/dbConnection.java</file>
+            <file>file:/E:/Shopping-cart/web/cart.jsp</file>
+            <file>file:/E:/Shopping-cart/web/index.jsp</file>
+            <file>file:/E:/Shopping-cart/src/java/servlet/RemoveFromCartServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
